@@ -1,4 +1,3 @@
-<p align="center"> <img src="resources/title.png" style="width: 85%;" id="title-icon">       </p>
 
 <p align="center">
    🅰 <a href="https://ajiaai.com/" target="_blank">AjiaAI</a>• 
@@ -19,7 +18,6 @@ English|<a href="">中文</a>
 
 [![CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-C-Eval数据集遵循 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
 
