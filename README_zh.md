@@ -46,6 +46,8 @@ English|<a href="">中文</a>
 ## 3公司架构
 
 
+ [公司架构](CompanyStructure_zh.md)
+
 ## 4Licenses
 
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
